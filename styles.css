@@ -58,6 +58,13 @@ button {
     cursor: pointer;
 }
 
+.delete-button{
+    color:white;
+    background-color: red;
+    padding:10px;
+    margin:10px;
+}
+
 button:hover {
     background-color: #4cae4c;
 }

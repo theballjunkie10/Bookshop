@@ -10,7 +10,7 @@
    title: "To Kill a Mockingbird",
    author: "Harper Lee",
    genre: "Classic"
-  },
+  }/*,
   {
    id: 3,
    title: "1984",
@@ -28,5 +28,5 @@
    title: "The Hitchhiker's Guide to the Galaxy",
    author: "Douglas Adams",
    genre: "Science Fiction"
-  }
+  }*/
  ];
